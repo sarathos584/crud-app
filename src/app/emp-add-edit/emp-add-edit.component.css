@@ -1,0 +1,6 @@
+mat-form-field{
+    width: 100%; /* this was to set the field to equal width */
+}
+.action button {
+    flex: 1; /* this was to set the last two buttons to equal width */
+}
